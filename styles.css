@@ -68,13 +68,15 @@ body {
     contrast(107%);
 }
 
+h1 {
+ padding: 0;
+ margin: 2px 0; 
+}
+
 .title a {
   color: var(--white);
   font-weight: 600;
   font-size: 18px;
-  
-  padding: 0;
-  margin: 2px 0;
 }
 
 .subtitle {
